@@ -1,16 +1,13 @@
-机器学习是一门广泛而深奥的学科，但是它也有一些基本的步骤和方法，可以帮助初学者入门。以下是一些建议：
-
-掌握数学基础：机器学习依赖于数学知识，如线性代数、微积分、概率统计等。建议学习这些数学基础知识，并了解其在机器学习中的应用。
-
-学习编程技能：机器学习需要使用编程语言来实现算法。Python是目前最流行的编程语言之一，也是一个比较容易上手的语言。如果你没有编程经验，可以先学习Python的基础知识，然后逐步学习使用各种机器学习库。
-
-理解机器学习算法：机器学习算法是实现机器学习的核心。理解常见的机器学习算法，如线性回归、决策树、随机森林、支持向量机等，并了解它们的原理和应用场景。
-
-实践项目：通过实践项目来巩固所学知识。可以从一些开源机器学习项目开始，如Scikit-Learn、XGBoost、LightGBM等。这些项目会提供实际的数据集，并要求你使用所学知识来构建和评估模型。
-
-学习其他技能：除了机器学习，还有很多其他技能可以帮助你在机器学习领域取得成功。例如，你可以学习数据可视化、数据分析、深度学习等技术，这些技能可以提高你对机器学习的理解和应用能力。
-
-寻找社区和资源：加入机器学习社区和参与相关活动可以帮助你更好地理解和应用机器学习。可以在GitHub、Stack Overflow等平台上寻找相关的论坛和社区，也可以参加一些机器学习会议和研讨会。
-
-
-总之，机器学习是一个庞大而复杂的领域，需要不断学习和实践才能取得进展。初学者可以从数学基础、编程技能、算法理解、实践项目、其他技能和社区资源等方面入手，逐步提高自己的能力。
+机器学习ML：
+So you are pro in this : I'll give you some advice:
+1: place let english be your working&study language.(让英语成为工作和学习的语言）
+2:Reading more and more paper & anthoer peolpe doing （扩展自己的视野，不闭门造车）
+3:Up&up by your mind not anthor guys saying (自己扩展知识的边界而不是别人的督促）
+  So i hope all of my friends can do those things.
+  
+  100 Days for ML & Keep learning 
+  1： Is for Python: 
+  2: Is for ML algorithm
+  3: Is for your Python's numpy && maltplat;
+  
+  
