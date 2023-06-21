@@ -24,3 +24,5 @@
 —————————————————————分割线———————————————————
 
 希望这个时代会更好，也希望各位伙伴也能更好的进入这个时代~
+coggle小组智慧融合：https://coggle.it/diagram/ZGTDOR8xwjxYip6Q/t/ml-nlp-cv-ai%2B-road-!-%E5%9B%BE%E7%89%87
+本人的邮箱：findpsyche@gmail.com 欢迎各位同仁跟我们一道一起了解ai，拥抱ai
