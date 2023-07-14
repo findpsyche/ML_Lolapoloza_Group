@@ -1,0 +1,34 @@
+现将内容放入github中，欢迎各位前来收取对于自己赛道和作品有价值的内容~！
+  （信息方面创新/平台渠道方面创新/工具类创新...集思广益，更有新意）
+  金融赛道AI创意
+目录
+一：本此AI评分：	1
+二：新颖 可行 社会价值	1
+三：关于创意：	2
+四：AI Studio使用：	2
+五：本次金融赛道报名内容：	2
+1：量化交易：（百度AISTUDIO内 Kaggle   AIwinn等其他比赛data baseline等..）	2
+
+一：本此AI评分：
+ 
+二：新颖 可行 社会价值
+1：创意和创新上：（相比之前有什么改进，心得内容，提升？）
+2：在Demo和效果上（对于想要达成的目标有Achieve水准如何，达到了怎样的效果）
+3：社会价值商业价值：至于社会他人应用的价值和至于行业内应用的价值
+
+三：关于创意：
+ 
+
+
+四：AI Studio使用：
+
+https://ai.baidu.com/ai-doc/AISTUDIO/Dk3e2vxg9 (AISTUDIO创建和使用)
+https://aistudio.baidu.com/aistudio/projectdetail/5951850 （AIStudio部署过程）
+https://docs.qq.com/doc/DR0tadW9qVkNhSXpV （大模型应用）
+
+五：本次金融赛道报名内容：
+1：量化交易：（百度AISTUDIO内 Kaggle   AIwinn等其他比赛data baseline等..）
+优秀数据集：https://aistudio.baidu.com/aistudio/projectdetail/4275734  （量化交易数据集）
+https://aistudio.baidu.com/aistudio/projectdetail/4420588（方案：基于RL的量化交易）
+https://github.com/wangshub/RL-Stock （量化交易github实战）
+https://github.com/felixglow/Stock （实时获取股票价格）
