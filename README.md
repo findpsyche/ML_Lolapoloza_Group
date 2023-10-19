@@ -28,3 +28,4 @@ coggle小组智慧融合：https://coggle.it/diagram/ZGTDOR8xwjxYip6Q/t/ml-nlp-c
 本人的邮箱：findpsyche@gmail.com 欢迎各位同仁跟我们一道一起了解ai，拥抱ai
 
 目前小组活动暂停，改日和伙伴们再见！！！ 个人学习还在继续大家加油！ https://github.com/findpsyche/ML_Study
+23.10.19：我们回来啦，准备成为知识图谱，NLP领域内长期稳定，有实力影响力的学习群交流群！！
